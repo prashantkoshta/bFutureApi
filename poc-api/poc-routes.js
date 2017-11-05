@@ -63,7 +63,7 @@ router.get('/getCustomersChartData', function(req, res) {
 
 
 router.get('/getScatterChartData', function(req, res) {
-    var n = Math.floor(Math.random()* 60)+5;
+    var n = Math.floor(Math.random()* 20)+1;
     //var n = 8;
     var obj = {
         "status":"ok",
@@ -72,7 +72,7 @@ router.get('/getScatterChartData', function(req, res) {
     var ar =[];
     for(var i=0;i<n;i++){
         var ls = Math.floor(Math.random()* n)+1;
-        ar[i] = {"question":"question_"+i,"answer":"answer_"+i,"value":Math.floor(Math.random()* 100)+1,"value_name":"Value_1"+i,"consequence":+Math.floor(Math.random()* 50)+1,"consequence_name":"consequence_"+i};
+        ar[i] = {"question":"question_"+i,"answer":"answer_"+ls,"value":Math.floor(Math.random()* 100)+1,"value_name":"Value_1"+i,"consequence":+Math.floor(Math.random()* 50)+1,"consequence_name":"consequence_"+i};
     }
     obj.data = ar;
     res.status(200).send(obj);
