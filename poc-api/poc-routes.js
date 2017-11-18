@@ -1,5 +1,7 @@
 var express = require('express');
 var router = express.Router();
+var fs = require("fs"),
+json;
 /* GET users listing. */
 
 
@@ -77,5 +79,38 @@ router.get('/getScatterChartData', function(req, res) {
     obj.data = ar;
     res.status(200).send(obj);
 });
+
+
+function readJsonFile(req, res,filename){
+    fs.readFile('./public/'+filename+'.json', 'utf8', function (err, data) {
+        if (err) throw err;
+        obj = JSON.parse(data);
+        res.status(200).send(JSON.stringify(obj));
+    });
+}
+
+router.get("/Customer",function(req, res) {
+    readJsonFile(req, res,'Customer');
+})
+
+router.get("/Customer/:id",function(req, res) {
+    readJsonFile(req, res,'CustomerID');
+})
+
+router.get("/Merchant",function(req, res) {
+    readJsonFile(req, res,'Merchant');
+})
+
+router.get("/Merchant/:id",function(req, res) {
+    readJsonFile(req, res,'MerchantID');
+})
+
+router.get("/Group",function(req, res) {
+    readJsonFile(req, res,'Group');
+})
+
+router.get("/Group/:id",function(req, res) {
+    readJsonFile(req, res,'GroupID');
+})
 
 module.exports = router;

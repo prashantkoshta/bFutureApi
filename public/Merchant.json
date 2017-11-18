@@ -1,0 +1,276 @@
+[{
+	"id": "1",
+	"Type": " Ottakers",
+	"SubType": "Education",
+	"Name": "Book store"
+}, {
+	"id": "2",
+	"Type": " Comet",
+	"SubType": "Electronics",
+	"Name": "Electronics"
+}, {
+	"id": "3",
+	"Type": " Dixons",
+	"SubType": "Electronics",
+	"Name": "Electronics"
+}, {
+	"id": "4",
+	"Type": " PC World",
+	"SubType": "Electronics",
+	"Name": "Computer"
+}, {
+	"id": "5",
+	"Type": "Early Learning Centre",
+	"SubType": "Entertainment",
+	"Name": "Kids"
+}, {
+	"id": "6",
+	"Type": "Netflix",
+	"SubType": "Entertainment",
+	"Name": "Entertainment"
+}, {
+	"id": "7",
+	"Type": "ODEON",
+	"SubType": "Entertainment",
+	"Name": "Entertainment"
+}, {
+	"id": "8",
+	"Type": "IMAX",
+	"SubType": "Entertainment",
+	"Name": "Entertainment"
+}, {
+	"id": "9",
+	"Type": " Etam",
+	"SubType": "Fashion",
+	"Name": "women's fashions accessories "
+}, {
+	"id": "10",
+	"Type": " French Connection",
+	"SubType": "Fashion",
+	"Name": "Fashion cloths"
+}, {
+	"id": "11",
+	"Type": " Karen Millen",
+	"SubType": "Fashion",
+	"Name": "women's fashions accessories "
+}, {
+	"id": "12",
+	"Type": " Quiksilver",
+	"SubType": "Fashion",
+	"Name": "Outware"
+}, {
+	"id": "13",
+	"Type": " Zavvi",
+	"SubType": "Fashion",
+	"Name": "Clothing"
+}, {
+	"id": "14",
+	"Type": " Aldi",
+	"SubType": "Fashion",
+	"Name": "Clothing"
+}, {
+	"id": "15",
+	"Type": " Evans",
+	"SubType": "Fashion",
+	"Name": "Clothing"
+}, {
+	"id": "16",
+	"Type": " Foot Locker",
+	"SubType": "Fashion",
+	"Name": "shoes"
+}, {
+	"id": "17",
+	"Type": "Goldsmiths",
+	"SubType": "Fashion",
+	"Name": "Jewellery & Watches"
+}, {
+	"id": "18",
+	"Type": " Russell & Bromley",
+	"SubType": "Fashion",
+	"Name": "shoes"
+}, {
+	"id": "19",
+	"Type": "Barratt Shoes",
+	"SubType": "Fashion",
+	"Name": "shoes"
+}, {
+	"id": "20",
+	"Type": "Debenhams",
+	"SubType": "Fashion",
+	"Name": "Fashion"
+}, {
+	"id": "21",
+	"Type": "Marks & Spencer",
+	"SubType": "Fashion",
+	"Name": "Clothing"
+}, {
+	"id": "22",
+	"Type": "Next",
+	"SubType": "Fashion",
+	"Name": "Clothing"
+}, {
+	"id": "23",
+	"Type": " Nandos",
+	"SubType": "Food",
+	"Name": "Fast food"
+}, {
+	"id": "24",
+	"Type": " Ultimo",
+	"SubType": "Food",
+	"Name": "Restaurant "
+}, {
+	"id": "25",
+	"Type": "Greggs",
+	"SubType": "Food",
+	"Name": "Food"
+}, {
+	"id": "26",
+	"Type": "mcdonald",
+	"SubType": "Food",
+	"Name": "Fast food"
+}, {
+	"id": "27",
+	"Type": "burger king",
+	"SubType": "Food",
+	"Name": "Fast food"
+}, {
+	"id": "28",
+	"Type": "pizza hut",
+	"SubType": "Food",
+	"Name": "Food"
+}, {
+	"id": "29",
+	"Type": "starbucks",
+	"SubType": "Food",
+	"Name": "Drinks"
+}, {
+	"id": "30",
+	"Type": "Bar 61 Restaurant",
+	"SubType": "Food",
+	"Name": "Restaurant "
+}, {
+	"id": "31",
+	"Type": "The Five Fields",
+	"SubType": "Food",
+	"Name": "Restaurant "
+}, {
+	"id": "32",
+	"Type": "Taste of Nawab",
+	"SubType": "Food",
+	"Name": "Restaurant "
+}, {
+	"id": "33",
+	"Type": "Iran Restaurant",
+	"SubType": "Food",
+	"Name": "Restaurant "
+}, {
+	"id": "34",
+	"Type": " Lidl",
+	"SubType": "Grocery",
+	"Name": "Grocery"
+}, {
+	"id": "35",
+	"Type": " Somerfield",
+	"SubType": "Grocery",
+	"Name": "Grocery"
+}, {
+	"id": "36",
+	"Type": " Boots",
+	"SubType": "Health",
+	"Name": "Pharma"
+}, {
+	"id": "37",
+	"Type": " Superdrug",
+	"SubType": "Health",
+	"Name": "Pharma"
+}, {
+	"id": "38",
+	"Type": " Vision Express",
+	"SubType": "Health",
+	"Name": "Spects"
+}, {
+	"id": "39",
+	"Type": " WH Smith",
+	"SubType": "Health",
+	"Name": "Pharma"
+}, {
+	"id": "40",
+	"Type": " Habitat",
+	"SubType": "Household",
+	"Name": "Furniture"
+}, {
+	"id": "41",
+	"Type": " Ikea",
+	"SubType": "Household",
+	"Name": "Furniture"
+}, {
+	"id": "42",
+	"Type": " Game",
+	"SubType": "Sports",
+	"Name": "Sports"
+}, {
+	"id": "43",
+	"Type": " JD Sports",
+	"SubType": "Sports",
+	"Name": "Sports"
+}, {
+	"id": "44",
+	"Type": "JJB Sports",
+	"SubType": "Sports",
+	"Name": "Sports"
+}, {
+	"id": "45",
+	"Type": " Rymans",
+	"SubType": "Education",
+	"Name": "home and office essentials"
+}, {
+	"id": "46",
+	"Type": " Waitrose",
+	"SubType": "Supermarket",
+	"Name": "Supermarket"
+}, {
+	"id": "47",
+	"Type": " Tesco",
+	"SubType": "Supermarket",
+	"Name": "Supermarket"
+}, {
+	"id": "48",
+	"Type": "Asda",
+	"SubType": "Supermarket",
+	"Name": "Supermarket"
+}, {
+	"id": "49",
+	"Type": "Flybe",
+	"SubType": "Travel",
+	"Name": "Airline"
+}, {
+	"id": "50",
+	"Type": "Virgin Atlantic",
+	"SubType": "Travel",
+	"Name": "Airline"
+}, {
+	"id": "51",
+	"Type": "EasyJet",
+	"SubType": "Travel",
+	"Name": "Airline"
+}, {
+	"id": "52",
+	"Type": "Atlantic airlines",
+	"SubType": "Travel",
+	"Name": "Airline"
+}, {
+	"id": "53",
+	"Type": "Enterprise rent a car",
+	"SubType": "Travel",
+	"Name": "Car rental"
+}, {
+	"id": "54",
+	"Type": "Nationwide Car Hire",
+	"SubType": "Travel",
+	"Name": "Car rental"
+}, {
+	"id": "55",
+	"Type": "Avis",
+	"SubType": "Travel",
+	"Name": "Car rental"
+}]

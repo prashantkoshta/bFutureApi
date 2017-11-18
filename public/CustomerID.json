@@ -1,0 +1,24 @@
+[
+    {
+        "Cluster": "9",
+        "id": "5",
+        "Name": " Florence Nightingale\ufffd",
+        "Age": "23",
+        "AvgBal": "2900",
+        "Score": "45",
+        "Status": "0",
+        "Hashouse": "0",
+        "Sex": "0",
+        "Dependents": "0",
+        "AvgPayin": "5800",
+        "AvgExp": "4000",
+        "Fashion": "600",
+        "Travel": "362",
+        "Health": "80",
+        "Entertainment": "680",
+        "Food": "600",
+        "Electronic": "670",
+        "Sports": "408",
+        "Grossary": "600"
+    }
+]
